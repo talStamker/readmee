@@ -38,10 +38,10 @@
 ### public void printAccuracy(DataSet test) -
 #### This function print the seccess rates precent od our decision tree.
 #### it will checks how many times the decision tree predict the correct result (label).
-![image](https://github.com/talStamker/readmee/assets/89009470/9e6b0c68-be34-4cb9-b4d7-056f3f8ef349)
 
 
-## way of running:
+## way of running: we run HW3
 ### examples  if runing
 #### * args[0] = 0 args[1]= "...\examples1.txt" args[2]= "...\examples1.txt"
-
+![image](https://github.com/talStamker/readmee/assets/89009470/fbcf0924-5136-4397-bb6c-da20fea6e90c)
+#### * args[0] = 1 args[1]= "...\examples1.txt" args[2]= "...\examples1.txt"
