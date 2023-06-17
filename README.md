@@ -44,6 +44,8 @@
 ### examples  if runing
 #### * args[0] = 0 args[1]= "...\examples1.txt" args[2]= "...\examples1.txt"
 ![image](https://github.com/talStamker/readmee/assets/89009470/fbcf0924-5136-4397-bb6c-da20fea6e90c)
+
+
 #### * args[0] = 1 args[1]= "...\examples1.txt" args[2]= "...\examples1.txt"
 ![image](https://github.com/talStamker/readmee/assets/89009470/cee6da07-c4b4-48d3-a7df-5a85586f54d6)
 
@@ -110,3 +112,6 @@
 ![image](https://github.com/talStamker/readmee/assets/89009470/dd192a2d-4094-4142-ad04-c5fb537032b0)
 
 ![image](https://github.com/talStamker/readmee/assets/89009470/35691394-c57e-40fb-a136-1785a871bdf0)
+
+#### * args[0] = 3 args[1]= "...\examples1.txt" args[2]= "...\examples1.txt"
+![image](https://github.com/talStamker/readmee/assets/89009470/70d23c1c-8e4a-4770-9d62-641fe4eb5da3)
