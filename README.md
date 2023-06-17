@@ -38,6 +38,7 @@
 ### public void printAccuracy(DataSet test) -
 #### This function print the seccess rates precent od our decision tree.
 #### it will checks how many times the decision tree predict the correct result (label).
+![image](https://github.com/talStamker/readmee/assets/89009470/9e6b0c68-be34-4cb9-b4d7-056f3f8ef349)
 
 
 ## way of running:
