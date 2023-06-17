@@ -89,4 +89,24 @@
 
 ![image](https://github.com/talStamker/readmee/assets/89009470/88363d1c-531c-417e-9bb5-07684487ac86)
 
+![image](https://github.com/talStamker/readmee/assets/89009470/dbb22862-56e8-4c6a-83aa-630cd74cc544)
 
+![image](https://github.com/talStamker/readmee/assets/89009470/94d1f893-f504-4523-8bdc-96af8d21412f)
+
+![image](https://github.com/talStamker/readmee/assets/89009470/e27685d3-2b85-493a-b2c3-18b751b856c3)
+
+![image](https://github.com/talStamker/readmee/assets/89009470/dba7b3c9-40e7-48af-8699-16f596221108)
+
+![image](https://github.com/talStamker/readmee/assets/89009470/516aaa33-d9cc-4a36-9bdf-2c9ef075743e)
+
+![image](https://github.com/talStamker/readmee/assets/89009470/fcb2c887-7c24-424b-ab37-4005430f40ad)
+
+![image](https://github.com/talStamker/readmee/assets/89009470/2a05c0f1-bde7-4a75-99a7-79abaa30c46d)
+
+![image](https://github.com/talStamker/readmee/assets/89009470/52d332ed-6213-4438-a9c2-2843ecdd6b02)
+
+![image](https://github.com/talStamker/readmee/assets/89009470/d0bc0f7a-598b-49b8-83ea-413ab102b69b)
+
+![image](https://github.com/talStamker/readmee/assets/89009470/dd192a2d-4094-4142-ad04-c5fb537032b0)
+
+![image](https://github.com/talStamker/readmee/assets/89009470/35691394-c57e-40fb-a136-1785a871bdf0)
