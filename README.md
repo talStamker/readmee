@@ -76,3 +76,7 @@
 
 ####  * args[0] = 2 args[1]= "...\examples1.txt" args[2]= "...\examples1.txt"
 ![image](https://github.com/talStamker/readmee/assets/89009470/42f72b28-72a0-4090-9307-15a80cee1979)
+
+![image](https://github.com/talStamker/readmee/assets/89009470/20079d34-3d90-424b-91a8-9567baaa4764)
+
+
