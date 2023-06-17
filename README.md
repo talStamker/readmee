@@ -38,3 +38,9 @@
 ### public void printAccuracy(DataSet test) -
 #### This function print the seccess rates precent od our decision tree.
 #### it will checks how many times the decision tree predict the correct result (label).
+
+
+## way of running:
+### examples  if runing
+#### * args[0] = 0 args[1]= "...\examples1.txt" args[2]= "...\examples1.txt"
+
